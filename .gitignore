@@ -1,0 +1,4 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+core/sandbox/sandbox_kernel
